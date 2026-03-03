@@ -1,5 +1,0 @@
-tensorflow
-flask
-opencv-python
-numpy
-RPi.GPIO        # Only if using Raspberry Pi
