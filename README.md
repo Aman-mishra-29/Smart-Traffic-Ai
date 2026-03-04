@@ -46,7 +46,8 @@ FastAPI REST API <br><br>
 - OpenCV <br>
 - NumPy <br>
 - Pydantic <br>
-- Uvicorn <br><br>
+- Uvicorn <br>
+
 **Project Structure** <br>
 Smart-Traffic-AI/ <br>
 │ <br>
@@ -70,9 +71,9 @@ Smart-Traffic-AI/ <br>
 ├── requirements.txt <br>
 ├── .env.example <br>
 ├── .gitignore <br>
-└── README.md <br><br>
-**Dataset**
+└── README.md <br>
 
+**Dataset** <br>
 The dataset follows YOLO format: <br>
 dataset/ <br>
 ├── images/train <br>
